@@ -23,5 +23,4 @@ FirstClass::FirstClass(const std::string start, const std::string destination)
 
 FirstClass::~FirstClass()
 {
-    std::cout << "FirstClass instance is being destroyed!" << std::endl;
 }
